@@ -1,0 +1,15 @@
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\kurucumetotlar.exe
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\kurucumetotlar.deps.json
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\kurucumetotlar.runtimeconfig.json
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\kurucumetotlar.dll
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\ref\kurucumetotlar.dll
+D:\pratikler\kurucu metotlar\kurucumetotlar\bin\Debug\net6.0\kurucumetotlar.pdb
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.csproj.AssemblyReference.cache
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.AssemblyInfoInputs.cache
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.AssemblyInfo.cs
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.csproj.CoreCompileInputs.cache
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.dll
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\ref\kurucumetotlar.dll
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.pdb
+D:\pratikler\kurucu metotlar\kurucumetotlar\obj\Debug\net6.0\kurucumetotlar.genruntimeconfig.cache
